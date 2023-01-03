@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/css/main.d918e03e.css",
+    "main.js": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/js/main.a6dc9594.js",
+    "static/js/787.5d5ea81f.chunk.js": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/js/787.5d5ea81f.chunk.js",
+    "static/media/fa-solid-900.ttf": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/https//:Ahmed-dev-98.github.io/Noxe-App/index.html",
+    "main.d918e03e.css.map": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/css/main.d918e03e.css.map",
+    "main.a6dc9594.js.map": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/js/main.a6dc9594.js.map",
+    "787.5d5ea81f.chunk.js.map": "/https//:Ahmed-dev-98.github.io/Noxe-App/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d918e03e.css",
+    "static/js/main.a6dc9594.js"
+  ]
+}
