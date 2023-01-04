@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import {createHashRouter , RouterProvider } from 'react-router-dom'
 import MainLayOut from './Components/MainLayOut/MainLayOut'
 import Home from './Components/Home/Home'
 import Movies from './Components/Movies/Movies'
@@ -34,7 +34,7 @@ function saveUserData() {
 
   
 }
-  let routes = createBrowserRouter([{
+  let routes = createHashRouter([{
     path:"/" , element: <MainLayOut  setuserData={setuserData} userData={userData}/> , children :[
       {index:true,element: <Home saveUserData={saveUserData} />},
       {path:"home",element: <ProtectedRoute userData={userData}><Home/></ProtectedRoute> },
