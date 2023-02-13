@@ -32,7 +32,7 @@ export default function Navbar({userData , logOut}) {
 
       </ul>: ""}
       <div className={`social-links ${styles.socialMedia}  `}>
-      <a href='https://www.facebook.com/profile.php?id=100004156359433' target="_blank" className="social-media fa-brands fa-facebook-f mx-2 text-white">
+      <a href='https://www.linkedin.com/in/ahmed-hassan-mohamed/' target="_blank" className="social-media fa-brands fa-linkedin mx-2 text-white">
       </a>
       <a href='https://github.com/Ahmed-dev-98' target="_blank" className="fa-brands fa-github mx-2 text-white" >
 
